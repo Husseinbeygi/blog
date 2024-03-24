@@ -23,8 +23,4 @@
     </None>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Content\Blog\media\" />
-  </ItemGroup>
-
 </Project>
